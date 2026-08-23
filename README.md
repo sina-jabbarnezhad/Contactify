@@ -1,8 +1,8 @@
-__**Contactify**__
+#**Contactify**
 
 A fast, privacy-friendly contact generator that creates bulk ".vcf" contact files directly in your browser.
 
-✨ Features
+**✨ Features**
 
 - 📱 Generate up to 1,000,000,000 contacts
 - 🌍 Country & phone-code detection
