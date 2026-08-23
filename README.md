@@ -4,7 +4,7 @@ A fast, privacy-friendly contact generator that creates bulk ".vcf" contact file
 
 **✨ Features**
 
-<ins>- 📱 Generate up to 1,000,000,000 contacts
+- 📱 Generate up to 1,000,000,000 contacts
 - 🌍 Country & phone-code detection
 - 🔢 Automatic phone formatting
 - 🏷️ Multiple contact naming formats
