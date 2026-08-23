@@ -1,4 +1,4 @@
-Contactify
+`Contactify`
 
 A fast, privacy-friendly contact generator that creates bulk ".vcf" contact files directly in your browser.
 
