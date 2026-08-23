@@ -1,4 +1,4 @@
-#**Contactify**
+# Contactify
 
 A fast, privacy-friendly contact generator that creates bulk ".vcf" contact files directly in your browser.
 
@@ -14,8 +14,8 @@ A fast, privacy-friendly contact generator that creates bulk ".vcf" contact file
 - 🔒 Fully client-side — no backend required
 - 🎨 Smooth, responsive dark UI
 
-🚀 Usage
+**🚀 Usage**
 
 Open "Contactify.html", enter a name, country, starting number, and contact count, choose a naming format, then press Export (.vcf).
 
-Contactify — Generate. Format. Export. 📇
+***Contactify — Generate. Format. Export. 📇***
