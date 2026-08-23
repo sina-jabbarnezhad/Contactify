@@ -18,4 +18,4 @@ A fast, privacy-friendly contact generator that creates bulk ".vcf" contact file
 
 Open "Contactify.html", enter a name, country, starting number, and contact count, choose a naming format, then press Export (.vcf).
 
-***Contactify — Generate. Format. Export. 📇***
+***Contactify — Generate. Format. Export.*** 📇
