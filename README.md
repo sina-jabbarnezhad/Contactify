@@ -3,8 +3,8 @@
 A fast, privacy-friendly contact generator that creates bulk ".vcf" contact files directly in your browser.
 
 **✨ Features**
-<ins>
-- 📱 Generate up to 1,000,000,000 contacts
+
+<ins>- 📱 Generate up to 1,000,000,000 contacts
 - 🌍 Country & phone-code detection
 - 🔢 Automatic phone formatting
 - 🏷️ Multiple contact naming formats
@@ -12,8 +12,8 @@ A fast, privacy-friendly contact generator that creates bulk ".vcf" contact file
 - ⚡ Chunked large-scale generation
 - 💾 One-click ".vcf" export
 - 🔒 Fully client-side — no backend required
-- 🎨 Smooth, responsive dark UI
-</ins>
+- 🎨 Smooth, responsive dark UI</ins>
+
 **🚀 Usage**
 
 Open "Contactify.html", enter a name, country, starting number, and contact count, choose a naming format, then press Export (.vcf).
